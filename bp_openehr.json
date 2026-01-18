@@ -1,0 +1,15 @@
+{
+  "ehr_id": "example-ehr-1",
+  "composition_uid": "example-comp-1",
+  "observation": {
+    "archetype_id": "openEHR-EHR-OBSERVATION.blood_pressure.v2",
+    "time": "2026-01-18T10:00:00Z",
+    "device": "Omron M3",
+    "systolic_mmHg": 132,
+    "diastolic_mmHg": 84,
+    "mean_arterial_pressure_mmHg": 100,
+    "pulse_per_min": 72,
+    "position": "sitting",
+    "location": "home"
+  }
+}
